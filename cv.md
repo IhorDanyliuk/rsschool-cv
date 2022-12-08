@@ -39,7 +39,7 @@ alert( result );
 * 2019 - English School "Green Forest" (English course of upper-intermediate level)
 * 2022 - Hillel IT School "Project Management" (https://lms.ithillel.ua/uploads/certificates/31805235_en.png)
 * In progress - RS Schools Course «JavaScript/Front-end. Stage 0» 
-
+* In progress - JavaScript Manual on learnjavascript.ru
 
 ### Languages:
 * Ukrainian, Russian - native
