@@ -22,7 +22,7 @@ company in an exciting and fast changing industry.
 * JavaScript Basics
 * Git, Github
 * VS Code
-* Jira
+* Jira, Confluence
 * Microsoft Office
 
 ### Code example:
